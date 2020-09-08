@@ -4,7 +4,7 @@ neweggQuickSearch.py is a python program that searches products from newegg.ca o
 
 Libraries bs4 and urllib.request are needed to run this python program.
 
-**This Version of neweggQuickSearch.py is 1.0.1.**
+**This Version of neweggQuickSearch is 1.0.1.**
 
 # Usage
 
